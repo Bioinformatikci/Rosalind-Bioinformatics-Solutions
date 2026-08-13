@@ -1,0 +1,40 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# R / RStudio
+.Rhistory
+.Rproj.user/
+*.RDataTmp
+
+# Archives and packaged submissions
+*.zip
+*.tar
+*.tar.gz
+
+# Large analysis/model outputs that should be documented instead of committed
+*.mat
+*.fig
+*.sf
+*.bam
+*.sam
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+
+# Local temporary outputs
+tmp/
+temp/
+logs/
+outputs/
+results/

@@ -19,6 +19,13 @@ This folder contains two small R/Shiny applications developed for interactive da
 - dplyr
 - DT
 
+## Included Data
+
+| Data file | Object loaded by the app | Notes |
+| --- | --- | --- |
+| `palmer_penguins_data.RData` | `penguins` | Palmer Penguins data used by the penguin explorer. |
+| `obesity_transcriptome_data.RData` | `ObeseData` | Obesity transcriptome summary matrix based on Park et al. (2006), GSE474. |
+
 ## Running The Apps
 
 Open R in this folder and run one of the following commands:
@@ -29,6 +36,11 @@ shiny::runApp(shiny::shinyAppFile("obesity_transcriptome_explorer.R"))
 ```
 
 If running from another directory, set the working directory to this folder first so the `.RData` files can be loaded correctly.
+
+## App Scope
+
+- `palmer_penguins_explorer.R` provides measurement selection, gender filtering, point color selection, a scatter plot, and a species/island summary table.
+- `obesity_transcriptome_explorer.R` compares expression values between normal, obese, and morbidly obese groups with a scatter plot and an interactive data table.
 
 ## Notes
 

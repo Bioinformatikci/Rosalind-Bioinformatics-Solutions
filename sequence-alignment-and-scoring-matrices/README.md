@@ -17,6 +17,12 @@ This folder contains a bioinformatics coursework project focused on PAM-style sc
 - Sequence alignment concepts
 - Numerical analysis and visualization with Python
 
+## Recommended Review Order
+
+1. Open `pam_matrix_sequence_alignment.html` for a quick rendered view of the notebook.
+2. Open `pam_matrix_sequence_alignment.ipynb` to inspect the executable notebook source.
+3. Use `sequence_alignment_report.pdf` as the submitted/report-style artifact.
+
 ## Tools
 
 - Python

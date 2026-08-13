@@ -15,6 +15,14 @@ This folder contains a concise workflow note for detecting alternative splicing 
 3. Filter significant splicing events by P-value and FDR.
 4. Generate sashimi plots for selected events.
 
+## Expected External Inputs
+
+- Paired-end FASTQ files or prepared sorted BAM files.
+- A STAR genome index.
+- A matching GTF annotation file.
+- Case and control BAM-list files for rMATS.
+- A conda or system environment containing STAR, rMATS, and rmats2sashimiplot.
+
 ## Tools
 
 - STAR

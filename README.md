@@ -1,6 +1,8 @@
 # Bioinformatics Portfolio Projects
 
-This repository collects selected coursework, analysis scripts, and small applications from my bioinformatics and computational biology training.
+This repository collects selected coursework, analysis scripts, workflow notes, and small applications from my bioinformatics and computational biology training.
+
+Suggested GitHub repository slug: `bioinformatics-portfolio-projects`.
 
 The projects focus on sequence analysis, transcriptomics, alternative splicing workflows, exploratory visualization, and introductory genome-scale analysis practices.
 
@@ -12,6 +14,13 @@ The projects focus on sequence analysis, transcriptomics, alternative splicing w
 | `bioinformatics-python-scripts/` | Small bioinformatics programming exercises and analysis scripts | Python, pandas, SciPy, matplotlib |
 | `rna-seq-alternative-splicing-rmats/` | RNA-seq alternative splicing workflow notes | STAR, rMATS, rmats2sashimiplot, shell |
 | `interactive-shiny-dashboards/` | Interactive data exploration applications | R, Shiny, ggplot2, DT |
+
+## Highlighted Work
+
+- Sequence alignment notebook with PAM-style matrix calculations and a rendered HTML version for quick review.
+- Python scripts for FASTA parsing, motif search, simple genome assembly logic, GBM expression summaries, volcano plotting, and variant population summaries.
+- R/Shiny applications for interactive Palmer Penguins and obesity transcriptome data exploration.
+- RNA-seq alternative splicing workflow notes using STAR, rMATS, and rmats2sashimiplot.
 
 ## Topics Covered
 
@@ -30,6 +39,10 @@ The analysis code and coursework files in this repository were authored by Burak
 
 This is a portfolio-oriented repository. Some scripts are educational exercises or workflow notes rather than fully packaged software. Where external datasets are required, the relevant project README explains the expected input files.
 
+Large raw sequencing files, model outputs, archives, and temporary analysis outputs are intentionally excluded from version control. Small coursework datasets needed by the Shiny examples are included so those apps can be reviewed locally.
+
 ## Suggested Use
 
 Start with the project-level README files inside each folder. They explain what each project contains, which tools are involved, and whether the files are intended to be run directly or reviewed as coursework/workflow examples.
+
+Recommended repository name: `bioinformatics-portfolio-projects`.

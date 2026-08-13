@@ -2,8 +2,6 @@
 
 This repository collects selected coursework, analysis scripts, workflow notes, and small applications from my bioinformatics and computational biology training.
 
-Suggested GitHub repository slug: `bioinformatics-portfolio-projects`.
-
 The projects focus on sequence analysis, transcriptomics, alternative splicing workflows, exploratory visualization, and introductory genome-scale analysis practices.
 
 ## Repository Overview
@@ -44,5 +42,3 @@ Large raw sequencing files, model outputs, archives, and temporary analysis outp
 ## Suggested Use
 
 Start with the project-level README files inside each folder. They explain what each project contains, which tools are involved, and whether the files are intended to be run directly or reviewed as coursework/workflow examples.
-
-Recommended repository name: `bioinformatics-portfolio-projects`.

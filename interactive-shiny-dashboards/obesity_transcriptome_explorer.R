@@ -1,4 +1,4 @@
-﻿# ==============================================================================
+# ==============================================================================
 # BENG 415 & BSB 632 - Homework IV: Shiny
 # Question 2: Obesity transcriptome data from Park et al. (2006), GSE474
 # Author : Burak Keskin

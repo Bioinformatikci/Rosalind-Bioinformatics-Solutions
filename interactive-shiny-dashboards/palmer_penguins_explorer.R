@@ -1,4 +1,4 @@
-﻿# ==============================================================================
+# ==============================================================================
 # BENG 415 & BSB 632 - Homework IV: Shiny
 # Question 1: Palmer Penguins two-tab Shiny application
 # Author : Burak Keskin

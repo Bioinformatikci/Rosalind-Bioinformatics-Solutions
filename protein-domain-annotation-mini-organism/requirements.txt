@@ -1,0 +1,6 @@
+biopython
+matplotlib
+numpy
+pandas
+requests
+

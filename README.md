@@ -9,6 +9,8 @@ The projects focus on sequence analysis, transcriptomics, alternative splicing w
 | Folder | Focus | Main tools |
 | --- | --- | --- |
 | `sequence-alignment-and-scoring-matrices/` | PAM scoring matrices and sequence alignment coursework | Python, NumPy, pandas, matplotlib, Jupyter |
+| `protein-domain-annotation-mini-organism/` | ORF-level protein annotation with BLAST, Pfam, and marker-gene placement | Python, Biopython, pandas, matplotlib |
+| `geo-psoriasis-expression-analysis/` | GEO psoriasis expression analysis with differential testing and result plots | R, GEOquery, Biobase |
 | `bioinformatics-python-scripts/` | Small bioinformatics programming exercises and analysis scripts | Python, pandas, SciPy, matplotlib |
 | `rna-seq-alternative-splicing-rmats/` | RNA-seq alternative splicing workflow notes | STAR, rMATS, rmats2sashimiplot, shell |
 | `interactive-shiny-dashboards/` | Interactive data exploration applications | R, Shiny, ggplot2, DT |
@@ -16,6 +18,8 @@ The projects focus on sequence analysis, transcriptomics, alternative splicing w
 ## Highlighted Work
 
 - Sequence alignment notebook with PAM-style matrix calculations and a rendered HTML version for quick review.
+- Protein-domain annotation project with ORF annotations, Pfam architecture plots, and marker-gene phylogenetic placement.
+- GEO psoriasis expression analysis with reproducible R code, summary tables, and diagnostic plots.
 - Python scripts for FASTA parsing, motif search, simple genome assembly logic, GBM expression summaries, volcano plotting, and variant population summaries.
 - R/Shiny applications for interactive Palmer Penguins and obesity transcriptome data exploration.
 - RNA-seq alternative splicing workflow notes using STAR, rMATS, and rmats2sashimiplot.
@@ -23,6 +27,8 @@ The projects focus on sequence analysis, transcriptomics, alternative splicing w
 ## Topics Covered
 
 - Sequence alignment and substitution scoring matrices
+- Protein domain annotation and homology-based functional interpretation
+- Public GEO expression-set analysis
 - FASTA parsing and motif search
 - Differential expression-style summary analysis
 - Variant frequency summaries and visualization

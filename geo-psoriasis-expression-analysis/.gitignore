@@ -1,0 +1,21 @@
+# R session/cache files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large generated outputs
+results/tables/differential_expression_*.csv
+
+# Keep compact portfolio outputs tracked
+!results/tables/analysis_summary.csv
+!results/tables/top_gene_correlation_shift_tests.csv
+!results/tables/bh_significant_genes_raw_scale.txt
+!results/tables/bh_significant_genes_log2_scale.txt
+!results/tables/shared_significant_genes_with_geo2r.txt
+!results/plots/*.png
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

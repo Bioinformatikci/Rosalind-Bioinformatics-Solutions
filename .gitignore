@@ -37,4 +37,4 @@ tmp/
 temp/
 logs/
 outputs/
-results/
+/results/

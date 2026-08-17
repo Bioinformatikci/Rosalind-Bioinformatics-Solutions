@@ -1,0 +1,22 @@
+# Python and notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local API/cache outputs
+.cache/
+cache/
+*.xml
+*_blastp.xml
+*_psiblast.xml
+*_pfam.tsv
+
+# Stale local notebook renders
+reports/*not_for_commit*.html
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

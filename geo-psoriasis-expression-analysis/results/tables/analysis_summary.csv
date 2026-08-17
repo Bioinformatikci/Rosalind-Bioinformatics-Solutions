@@ -1,0 +1,2 @@
+"geo_accession","n_probes","n_case_samples","n_control_samples","nominal_p_0_05_raw_scale","nominal_p_0_01_raw_scale","bonferroni_p_0_05_raw_scale","bh_p_0_01_raw_scale","bh_p_0_01_log2_scale"
+"GSE52471",17440,18,13,9119,6838,1678,5660,5621

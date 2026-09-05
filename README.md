@@ -8,12 +8,12 @@ The projects focus on sequence analysis, transcriptomics, alternative splicing w
 
 | Folder | Focus | Main tools |
 | --- | --- | --- |
-| `sequence-alignment-and-scoring-matrices/` | PAM scoring matrices and sequence alignment methods | Python, NumPy, pandas, matplotlib, Jupyter |
-| `protein-domain-annotation-mini-organism/` | ORF-level protein annotation with BLAST, Pfam, and marker-gene placement | Python, Biopython, pandas, matplotlib |
-| `geo-psoriasis-expression-analysis/` | GEO psoriasis expression analysis with differential testing and result plots | R, GEOquery, Biobase |
-| `bioinformatics-python-scripts/` | Small reproducible bioinformatics utilities and analysis scripts | Python, pandas, SciPy, matplotlib |
-| `rna-seq-alternative-splicing-rmats/` | RNA-seq alternative splicing workflow notes | STAR, rMATS, rmats2sashimiplot, shell |
-| `interactive-shiny-dashboards/` | Interactive data exploration applications | R, Shiny, ggplot2, DT |
+| [sequence-alignment-and-scoring-matrices/](sequence-alignment-and-scoring-matrices/) | PAM scoring matrices and sequence alignment methods | Python, NumPy, pandas, matplotlib, Jupyter |
+| [protein-domain-annotation-mini-organism/](protein-domain-annotation-mini-organism/) | ORF-level protein annotation with BLAST, Pfam, and marker-gene placement | Python, Biopython, pandas, matplotlib |
+| [geo-psoriasis-expression-analysis/](geo-psoriasis-expression-analysis/) | GEO psoriasis expression analysis with differential testing and result plots | R, GEOquery, Biobase |
+| [bioinformatics-python-scripts/](bioinformatics-python-scripts/) | Small reproducible bioinformatics utilities and analysis scripts | Python, pandas, SciPy, matplotlib |
+| [rna-seq-alternative-splicing-rmats/](rna-seq-alternative-splicing-rmats/) | RNA-seq alternative splicing workflow notes | STAR, rMATS, rmats2sashimiplot, shell |
+| [interactive-shiny-dashboards/](interactive-shiny-dashboards/) | Interactive data exploration applications | R, Shiny, ggplot2, DT |
 
 ## Highlighted Work
 
